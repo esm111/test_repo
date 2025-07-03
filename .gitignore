@@ -1,0 +1,58 @@
+# Keil MDK-ARM 编译生成的文件
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.build_log.htm
+*.lnp
+*.map
+*.sct
+*.lst
+*.iex
+*.dep
+
+# Keil 项目配置文件
+*.uvprojx
+*.uvoptx
+*.uvguix.*
+*.uvgui.*
+*.*35
+*.33935
+
+# 编译输出目录
+MDK-ARM/can/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+
+# 日志文件
+*.log
+JLinkLog.txt
+JLinkSettings.ini
+
+# 调试文件
+*.scvd
+EventRecorderStub.scvd
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+*.db
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 其他编译器生成的文件
+*.bin
+*.dump
+*.size
+*.sym
