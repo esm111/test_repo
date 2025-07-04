@@ -13,7 +13,6 @@
 *.dep
 
 # Keil 项目配置文件
-*.uvprojx
 *.uvoptx
 *.uvguix.*
 *.uvgui.*
@@ -22,7 +21,6 @@
 
 # 编译输出目录
 MDK-ARM/can/
-MDK-ARM/DebugConfig/
 MDK-ARM/RTE/
 
 # 日志文件
